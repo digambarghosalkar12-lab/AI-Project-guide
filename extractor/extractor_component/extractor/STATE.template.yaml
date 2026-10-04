@@ -1,0 +1,14 @@
+component: extractor
+status: not_started
+source_project: null
+output_project: null
+phase: discovery
+approved_decisions: []
+runtime_entry_points: []
+runtime_dependency_sources: []
+runtime_exceptions_retained: []
+excluded_dev_categories: []
+unresolved_ambiguities: []
+test_requested: null
+test_status: not_requested
+next_action: inspect_project

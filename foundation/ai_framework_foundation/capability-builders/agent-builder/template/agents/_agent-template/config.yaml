@@ -1,0 +1,5 @@
+name: ""
+model: ""
+instruction_file: "AGENT.md"
+plan_file: "PLAN.md"
+required_env: []

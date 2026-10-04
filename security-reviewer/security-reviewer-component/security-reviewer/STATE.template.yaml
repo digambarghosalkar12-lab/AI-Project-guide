@@ -1,0 +1,21 @@
+version: 1
+status: not_started
+source_project: null
+review_root: review
+project_map:
+  root: null
+  components: []
+current:
+  component: null
+  source_path: null
+  hierarchy_path: []
+  relevant_dependencies: []
+  resume_position: null
+progress:
+  pending: []
+  completed: []
+  needs_verification: []
+  rechecks_required: []
+  rechecks_completed: []
+compact_findings: []
+last_checkpoint: null

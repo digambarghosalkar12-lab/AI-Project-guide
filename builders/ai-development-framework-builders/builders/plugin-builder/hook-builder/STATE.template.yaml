@@ -1,0 +1,15 @@
+version: 1
+builder: hook-builder
+status: discovery # discovery|design|approved|generating|testing|verified|blocked|complete
+parent_builder: null
+artifact_name: ""
+approved_decisions: []
+completed_dependencies: []
+pending_dependencies: []
+resume_position: ""
+next_action: ""
+verification:
+  structural: pending
+  functional: pending
+blocker: null
+last_compaction_checkpoint: null

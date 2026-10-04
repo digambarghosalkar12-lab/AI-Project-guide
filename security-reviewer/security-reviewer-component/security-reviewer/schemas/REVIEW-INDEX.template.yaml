@@ -1,0 +1,13 @@
+version: 1
+project: null
+review_root: review
+hierarchy: []
+reports: []
+# Each report entry:
+# - component: null
+#   source_path: null
+#   hierarchy_path: []
+#   report_path: null
+#   status: pending | complete | needs_verification | recheck_required
+#   dependencies_considered: []
+#   recheck_targets: []

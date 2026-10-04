@@ -1,0 +1,18 @@
+version: 1
+name: "<agent-name>"
+model: "<model>"
+description: "<short-purpose>"
+instruction_file: AGENT.md
+design_file: PLAN.md
+required_env: []
+allowed_capabilities:
+  plugins: []
+  skills: []
+  hooks: []
+context:
+  startup_files: [AGENT.md]
+  lazy_load: []
+  compact_at_percent: 70
+input_contract: "<reference-or-summary>"
+output_contract: "<reference-or-summary>"
+compatibility: []

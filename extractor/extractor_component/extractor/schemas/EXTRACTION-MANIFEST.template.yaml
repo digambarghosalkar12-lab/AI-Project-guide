@@ -1,0 +1,13 @@
+extractor_manifest_version: 1
+source_project: null
+output_project: null
+status: pending
+included_categories: []
+excluded_categories: []
+runtime_exceptions: []
+unresolved_items: []
+environment_files_copied: []   # file names/paths only; never secret values
+validation:
+  requested: null
+  performed: false
+  result: not_run
